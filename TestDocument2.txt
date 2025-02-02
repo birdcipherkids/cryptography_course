@@ -1,0 +1,10 @@
+La licencia BSD es la licencia de software otorgada principalmente para los sistemas BSD 
+(Berkeley Software Distribution), un tipo del sistema operativo Unix-like. Es una licencia 
+de software libre permisiva como la licencia de OpenSSL o la MIT License. Esto está en 
+contraste con las licencias copyleft, que tienen de reciprocidad requisitos de compartir-igual. 
+Esta licencia tiene menos restricciones en comparación con otras como la GPL estando muy cercana 
+al dominio público. La licencia BSD al contrario que la GPL permite el uso del código fuente en 
+software no libre. La versión original ya se ha revisado y sus variantes son denominadas licencias 
+BSD modificadas.
+
+Es muy similar en efectos a la licencia MIT.

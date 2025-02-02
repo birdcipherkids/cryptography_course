@@ -25,6 +25,7 @@ def encryptMessage(key, message):
 
 			cipherText[col] = cipherText[col] + message[pointer]
 			pointer = pointer + key
+			
 
 
 	return ''.join(cipherText)
